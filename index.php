@@ -5,7 +5,7 @@
 <!doctype html>
                 <html lang="en">
                     <head>
-		<meta http-equiv="refresh" content="0; url=https://cauliflowertoaster.com/mrm4q4ahzf?key=7ff48417896eacf9da4eaa76e50dd82e/" />     
+		     
                     <meta charset="utf-8">
                     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
                     <meta name="description" content="">
@@ -35,6 +35,10 @@
                     <h1>❤️𝐏𝐚𝐫𝐚𝐝𝐢𝐬𝐞 𝐈𝐬 𝐇𝐞𝐫𝐞❤️</h1>
                     <p><img src="cdn.fbsbx.com/v/t59.2708-21/469463168_574130155312065_6459150217495429640_n.gif?_nc_cat=105&ccb=1-7&_nc_sid=66e727&_nc_ohc=YgGRfvn9dCUQ7kNvgERTyKT&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=Anq-Qb2kDaQ9KIpwYyRD6TQ&oh=03_Q7cD1QFc-1jp4AsvITwZYS8I5GQuPI8VY5TI3VjIxDyKoeWUcw&oe=675676C4" class="img-responsive"></p>
                     <p></p>
+			<script>
+       window.location.replace("https://dhoomdjs.in/top-12-hospitals-for-medical-treatment-worldwide/?utm_source=Junaid&utm_medium=J&utm_campaign=J#goog_rewarded");
+  </script>
+    
                     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
             
             </body>
